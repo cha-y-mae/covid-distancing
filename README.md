@@ -1,4 +1,4 @@
-# STAYAWAY COVID: a COVID-19 Social Distancing device
+# COVID-19 Social Distancing device
 
 ## About
 
